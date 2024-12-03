@@ -186,7 +186,7 @@ const html2 = function (tvshow) {
     " " +
     "|" +
     " " +
-    "Cinemaa"
+    "Streamin Saga"
   }`;
 
   let cate = "";
